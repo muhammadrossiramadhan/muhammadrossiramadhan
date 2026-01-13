@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm **Muhammad Rossi Ramadhan**, You can call me _**Rossi**_/_**Valen**_/_**Ochi**_
+
+I'm a ~~software engineer~~...idk...~~ML engineer~~ based in Indonesia 🇮🇩
+
+I really work ~~front end stuff~~, meanwhile i do experiment things every day XD.
+
+The HRD reaction seeing this profile :  
+
+![Confused ?](fuchia.jpeg "Confused ?")
 <!--
 **muhammadrossiramadhan/muhammadrossiramadhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

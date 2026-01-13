@@ -4,11 +4,14 @@ I'm **Muhammad Rossi Ramadhan**, You can call me _**Rossi**_/_**Valen**_/_**Ochi
 
 I'm a ~~software engineer~~...idk...~~ML engineer~~ based in Indonesia 🇮🇩
 
-I really work ~~front end stuff~~, meanwhile i do experiment things every day XD.
+I really work ~~front end stuff~~, meanwhile i do experiment things every day in this repo XD.
 
 The HRD reaction seeing this profile :  
 
-![Confused ?](fuchia.jpeg "Confused ?")
+<img alt="confused ?" src="fuchia.jpeg" width="200">
+
+i have already learn - **JAVA <sup>BASIC</sup>**, **C <sup>BASIC</sup>**, **Python <sup>BASIC</sup>**, **HTML <sup>BASIC</sup>**, **CSS <sup>BASIC</sup>**, **Javascript<sup>BASIC</sup>**, **SQL <sup>INTERMEDIATE</sup>**
+
 <!--
 **muhammadrossiramadhan/muhammadrossiramadhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

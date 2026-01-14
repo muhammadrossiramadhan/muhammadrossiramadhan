@@ -1,4 +1,4 @@
-## Ni好 👋
+## 你好 👋
 
 I'm **Muhammad Rossi Ramadhan**, You can call me _**Rossi**_/_**Valen**_/_**Ochi**_
 

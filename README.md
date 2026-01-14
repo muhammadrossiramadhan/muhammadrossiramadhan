@@ -8,7 +8,7 @@ I really work ~~front end stuff~~, meanwhile i do experiment things every day in
 
 The HRD reaction seeing this profile :  
 
-<img alt="confused ?" src="fuchia.jpeg" width="200">
+<img alt="confused ?" src="Fuchia.gif" width="200">
 
 i have already learn - **JAVA <sup>BASIC</sup>**, **C <sup>BASIC</sup>**, **Python <sup>BASIC</sup>**, **HTML <sup>BASIC</sup>**, **CSS <sup>BASIC</sup>**, **Javascript<sup>BASIC</sup>**, **SQL <sup>INTERMEDIATE</sup>**
 

@@ -1,7 +1,6 @@
-| HELLO   | THERE  |  🤗 |
-| -----   | -----  | ----- |
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=3000&pause=1000&color=F2C9D8&center=true&vCenter=true&width=180&height=30&lines=HELLO+THERE+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+--
 
 I'm **Muhammad Rossi Ramadhan**, You can call me _**Rossi**_/_**Valen**_/_**Ochi**_
 
@@ -13,7 +12,9 @@ The HRD reaction seeing this profile :
 
 <img alt="confused ?" src="Fuchia.gif" width="200">
 
-i have already learn - **JAVA <sup>BASIC</sup>**, **C <sup>BASIC</sup>**, **Python <sup>BASIC</sup>**, **HTML <sup>BASIC</sup>**, **CSS <sup>BASIC</sup>**, **Javascript<sup>BASIC</sup>**, **SQL <sup>INTERMEDIATE</sup>**
+i have already learn : 
+
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=java,javascript,html,css3,sql,c,python)](https://github.com/syvixor/skills-icons)
 
 
 

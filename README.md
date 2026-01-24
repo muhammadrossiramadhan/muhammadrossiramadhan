@@ -14,7 +14,7 @@ The HRD reaction seeing this profile :
 
 i have already learn : 
 
-[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=java,javascript,html,css3,sql,c,python)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=java,sql,c,python)](https://github.com/syvixor/skills-icons)
 --
 
 ### A little things about me ><

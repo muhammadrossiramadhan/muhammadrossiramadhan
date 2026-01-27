@@ -22,7 +22,8 @@ i have already learn :
 - I love swimming, gym, running, callsthenic 🏅
 - I also love reading a book ( **Favourite** : _The Midnight Library_ )  📖
 - Enjoy to watch a anime or movie ( **Favourite** : _Steins Gate_/_Tenet_ ) 🎬 
-- I like build something from easier to complex things with consider functionality 🧰  
+- I like build something from easier to complex things with consider functionality 🧰
+- i don't really like coffe actually ☕, prefer a cup of tea 🍵
 <!--
 **muhammadrossiramadhan/muhammadrossiramadhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

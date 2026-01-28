@@ -24,6 +24,7 @@ i have already learn :
 - Enjoy to watch a anime or movie ( **Favourite** : _Steins Gate_/_Tenet_ ) 🎬 
 - I like build something from easier to complex things with consider functionality 🧰
 - i don't really like coffe ☕, prefer a cup of tea 🍵
+- i didn't realize that so hard to find my interest
 <!--
 **muhammadrossiramadhan/muhammadrossiramadhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
